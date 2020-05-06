@@ -1,0 +1,15 @@
+{
+   "data":[],
+   "imges":[
+       {
+        "img1":"http://img3.imgtn.bdimg.com/it/u=1688444226,912774195&fm=26&gp=0.jpg",
+        "img2":"http://img2.imgtn.bdimg.com/it/u=2031173755,158711125&fm=26&gp=0.jpg",
+        "img3":"http://img0.imgtn.bdimg.com/it/u=2394458477,1914853673&fm=11&gp=0.jpg",
+        "img4":"http://img4.imgtn.bdimg.com/it/u=1940116422,2073392104&fm=26&gp=0.jpg"
+       }
+   ],
+   "meta":{
+       "status":200,
+       "msg":"成功获取数据"
+   }
+}
